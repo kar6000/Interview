@@ -1,0 +1,48 @@
+Interview questions for Automation Testers
+===========================================
+	
+1. Find the largest number in the array
+2. Find the smallest number in the array
+3. Find the sum of the numbers in the array
+4. Find the average of all the numbers in the array
+5. Find the duplicate numbers from the array 
+6. Sort the array
+7. Reverse the array
+8. Find the First two laregest number from the array
+9. Find the First two smallest number from the array
+
+(Use this below array:)
+int a[] ={1,2,7,-9,-6,-45,-32,-6,-9}
+
+10. Write a program to check if a number is prime or not
+11. Print prime number from 1 to 1000
+12. Find the factorial of a gven number
+13. Print the factorial of numbers from 1-10
+14. Fibonacee test
+
+
+Stirng
+=======
+1. Reverse a given string (Don't use string buffer method)
+2. Sort a given string
+3. Given a String "ipsita". Find if it is a palindrome or not.
+4. Given 2 string, do a ANAGRAM test
+5. Given a string "ipsita". Remove all the vowels and print the new string
+6. Given a string "facebook". Replace the character 'f' with 'm'. The result string will be "macebook". Write an algorithm
+
+Junit
+======
+1. write a program to test if 2 strings are Anagram or not. Write 4 junit test cases
+2.write a program to test if a string is palindrome or not. Write 4 junit test cases
+3.write a program sort a string. Write 4 junit test cases to test 4 different strings
+4. write a program to reverse a string using for loop. Write 4 junit test cases to test 4 different strings
+5.
+
+
+
+
+
+
+
+
+
